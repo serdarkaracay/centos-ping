@@ -1,1 +1,2 @@
 # centos-ping
+# centos-ping
